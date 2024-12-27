@@ -59,5 +59,16 @@
     </entry>
     
     
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>    <div id="aplayer-prmpyJSZ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="13053898449" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"    ></div><script>console.error("Error: [hexo-tag-aplayer] Specified asset file not found ([picture_url,)");</script><script>console.error("SyntaxError: Expected double-quoted property name in JSON at position 48 (line 2 column 47)");</script>]]></content>
+      
+    </entry>
+    
+    
   
 </search>
