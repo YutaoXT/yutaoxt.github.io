@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>郁陶晓天的Blog</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>更新是一件奢侈的事情</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-02-16T09:31:03.475Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>郁陶晓天</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/02/14/hello-world/"/>
+    <id>http://example.com/2025/02/14/hello-world/</id>
+    <published>2025-02-14T04:23:11.197Z</published>
+    <updated>2025-02-16T09:31:03.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;Welcome to &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
