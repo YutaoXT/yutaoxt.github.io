@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>郁陶晓天的Blog</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>http://yutaoxt.github.io/icon.png</icon>
   <subtitle>更新是一件奢侈的事情</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://yutaoxt.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://yutaoxt.github.io/"/>
   <updated>2025-02-16T09:31:03.475Z</updated>
-  <id>http://example.com/</id>
+  <id>http://yutaoxt.github.io/</id>
   
   <author>
     <name>郁陶晓天</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/02/14/hello-world/"/>
-    <id>http://example.com/2025/02/14/hello-world/</id>
+    <link href="http://yutaoxt.github.io/posts/16107.html"/>
+    <id>http://yutaoxt.github.io/posts/16107.html</id>
     <published>2025-02-14T04:23:11.197Z</published>
     <updated>2025-02-16T09:31:03.475Z</updated>
     
