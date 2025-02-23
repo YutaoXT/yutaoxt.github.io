@@ -6,7 +6,7 @@
   <link href="http://yutaoxt.github.io/atom.xml" rel="self"/>
   
   <link href="http://yutaoxt.github.io/"/>
-  <updated>2025-02-16T09:31:03.475Z</updated>
+  <updated>2025-02-23T09:40:12.481Z</updated>
   <id>http://yutaoxt.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用最简单的方式本地部署Deepseek</title>
+    <link href="http://yutaoxt.github.io/posts/32786.html"/>
+    <id>http://yutaoxt.github.io/posts/32786.html</id>
+    <published>2025-02-23T06:21:08.000Z</published>
+    <updated>2025-02-23T09:40:12.481Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h1 id=&quot;用最简单的方式本地部署Deepseek&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ollama" scheme="http://yutaoxt.github.io/tags/ollama/"/>
+    
+    <category term="DeepSeek" scheme="http://yutaoxt.github.io/tags/DeepSeek/"/>
+    
+    <category term="DeepSeek-R1" scheme="http://yutaoxt.github.io/tags/DeepSeek-R1/"/>
+    
+    <category term="AI本地部署" scheme="http://yutaoxt.github.io/tags/AI%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
