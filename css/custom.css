@@ -1,3 +1,8 @@
+.loading-img {
+    background: url(http://q.qlogo.cn/headimg_dl?dst_uin=2016070030&spec=640&img_type=jpg) no-repeat center center;
+    background-size: cover;
+  }
+
 /*aplayer日间模式调整*/
 /*背景色*/
 .aplayer{
@@ -44,10 +49,10 @@
 }	
 /*选中与播放中歌曲激活颜色*/
 .aplayer .aplayer-list ol li:hover{
-    background: #b0e5ff!important;
+    background: #b0e1ff!important;
 }
 .aplayer .aplayer-list ol li.aplayer-list-light{
-    background: #dfe1ff!important;
+    background: #dfe6ff!important;
 }
 
 /*aplayer黑暗模式*/
@@ -69,11 +74,11 @@
 }
 [data-theme=dark]	
 .aplayer .aplayer-list ol li:hover{
-    background: #3485a5!important;
+    background: #407290!important;
 }
 [data-theme=dark]
 .aplayer .aplayer-list ol li.aplayer-list-light{
-    background: #393b60!important;
+    background: #80889c!important;
 }
 [data-theme=dark]
 .aplayer .aplayer-info .aplayer-controller .aplayer-time{
@@ -87,9 +92,3 @@
 .aplayer .aplayer-list ol li .aplayer-list-author{
     color: #d4d4d4;
 }
-
-
-.loading-img {
-    background: url(http://q.qlogo.cn/headimg_dl?dst_uin=2016070030&spec=640&img_type=jpg) no-repeat center center;
-    background-size: cover;
-  }
